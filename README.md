@@ -1,5 +1,6 @@
 # Buscalab - por Techplan
  Este é um projeto universitário, feito pela equipe Techplan, formada na disciplina de Projeto Integrado I.
+ 
 
  ## O que é?
  O Buscalab é um sistema que almeja atender aos requisitos de transparência do MEC, à respeito dos itens contidos nos inventários do curso de Sistemas e Mídias Digitais.
@@ -41,6 +42,9 @@
 PHP, HTML5, CSS3, JavaScript e Tailwind CSS.
 
 ## Link do site já hospedado : https://buscalab.000webhostapp.com/Buscalab/
+### Imagens da parte administrativa (acesso privado)
+<img src = "assets/inside_buscalab/img03.jpeg" width = "450px"/>
+<img src = "assets/inside_buscalab/img01.png" width = "450px"/>
 
  ## Tabela de requisitos
 
