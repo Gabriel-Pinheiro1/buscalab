@@ -43,8 +43,11 @@ PHP, HTML5, CSS3, JavaScript e Tailwind CSS.
 
 ## Link do site já hospedado : https://buscalab.000webhostapp.com/Buscalab/
 ### Imagens da parte administrativa (acesso privado)
+<img src = "assets/inside_buscalab/img04.png" width = "450px"/>
 <img src = "assets/inside_buscalab/img03.jpeg" width = "450px"/>
 <img src = "assets/inside_buscalab/img01.png" width = "450px"/>
+<img src = "assets/inside_buscalab/img05.png" width = "450px"/>
+<img src = "assets/inside_buscalab/img06.png" width = "450px"/>
 
  ## Tabela de requisitos
 
